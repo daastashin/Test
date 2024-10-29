@@ -1,2 +1,7 @@
 12
+<<<<<<< HEAD
 Line from user 1
+=======
+фтщерук дшту акщь гыук 1
+Line from user 2
+>>>>>>> 5e2f1baf9c0c55b22666a8a01c048deb907bf350
