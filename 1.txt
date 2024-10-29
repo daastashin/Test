@@ -1,2 +1,2 @@
 12
-From branch master
+Line from user 1
